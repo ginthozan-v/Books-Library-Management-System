@@ -1,0 +1,402 @@
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.iOS.exe
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.iOS.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\DynamicData.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ReactiveUI.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ReactiveUI.XamForms.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Splat.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLite-net.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Buffers.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Memory.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Reactive.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\MaterialComponents.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.xml
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\optimized\
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csprojAssemblyReference.cache
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csproj.CoreCompileInputs.cache
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csproj.CopyComplete
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.exe
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLiteNetExtensions.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLiteNetExtensions.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.iOS.exe
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.iOS.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\DynamicData.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ReactiveUI.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ReactiveUI.XamForms.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Splat.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLite-net.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLiteNetExtensions.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLiteNetExtensions.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Buffers.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Memory.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Reactive.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\MaterialComponents.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.xml
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\optimized\
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csprojAssemblyReference.cache
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csproj.CoreCompileInputs.cache
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csproj.CopyComplete
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.exe
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Common.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Configuration.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Frameworks.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.iOS.exe
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.iOS.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\DynamicData.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\EntityFramework.SqlServer.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\EntityFramework.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Common.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Configuration.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Frameworks.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ReactiveUI.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ReactiveUI.XamForms.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Splat.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLite-net.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLiteNetExtensions.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLiteNetExtensions.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Buffers.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.CodeDom.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Memory.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Reactive.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.Cryptography.ProtectedData.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.Permissions.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\MaterialComponents.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.xml
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\optimized\
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csprojAssemblyReference.cache
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csproj.CoreCompileInputs.cache
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csproj.CopyComplete
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.exe
+E:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.iOS.exe
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.iOS.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\DynamicData.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\EntityFramework.SqlServer.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\EntityFramework.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Newtonsoft.Json.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Common.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Configuration.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\NuGet.Frameworks.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ReactiveUI.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ReactiveUI.XamForms.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Splat.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLite-net.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLiteNetExtensions.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLiteNetExtensions.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.batteries_v2.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.nativelibrary.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.core.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Licensing.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Buttons.XForms.iOS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.Core.XForms.iOS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfComboBox.XForms.iOS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.XForms.iOS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Syncfusion.SfRating.iOS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Buffers.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.CodeDom.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Configuration.ConfigurationManager.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Data.SqlClient.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Memory.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Reactive.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.AccessControl.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.Cryptography.ProtectedData.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.Permissions.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\System.Security.Principal.Windows.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.Abstractions.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Plugin.Settings.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Essentials.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Essentials.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.PancakeView.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Skeleton.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Material.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\MaterialComponents.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\LMS.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\bin\iPhone\Debug\Mono.Android.xml
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\optimized\
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csprojAssemblyReference.cache
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csproj.CoreCompileInputs.cache
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.csproj.CopyComplete
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.exe
+F:\InterSoft Projects\LMS\LMS\LMS\LMS.iOS\obj\iPhone\Debug\LMS.iOS.pdb

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="LMS.Views.Home"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    Title="{Binding Title}"
+    Visual="Material">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="ExBoldLabel" TargetType="Label">
+                <Setter Property="FontFamily" Value="GilroyEB" />
+                <Setter Property="TextColor" Value="#323232" />
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+            <Style x:Key="LightLabel" TargetType="Label">
+                <Setter Property="FontFamily" Value="GilroyL" />
+                <Setter Property="TextColor" Value="#706c61" />
+            </Style>
+            <Style x:Key="TitleLabel" TargetType="Label">
+                <Setter Property="FontFamily" Value="GilroyL" />
+                <Setter Property="TextColor" Value="#323232" />
+                <Setter Property="FontSize" Value="25" />
+                <Setter Property="FontAttributes" Value="Bold" />
+                <Setter Property="Padding" Value="20,10,20,0" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <RefreshView
+            Command="{Binding RefreshCommand}"
+            IsEnabled="True"
+            IsRefreshing="{Binding IsRefreshing}"
+            RefreshColor="Teal">
+
+            <ScrollView>
+                <Grid BackgroundColor="#fff">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="160" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+
+
+                    <!--  Title  -->
+                    <Label
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        Grid.ColumnSpan="2"
+                        Style="{StaticResource TitleLabel}"
+                        Text="Categories" />
+
+                    <!--  Category  -->
+                    <CollectionView
+                        Grid.Row="1"
+                        Margin="20,10,0,0"
+                        HeightRequest="60"
+                        HorizontalScrollBarVisibility="Never"
+                        ItemsSource="{Binding Categories, Mode=TwoWay}"
+                        SelectedItem="{Binding SelectedCategory}"
+                        SelectionChangedCommand="{Binding SelectionCommand}"
+                        SelectionMode="Single"
+                        VerticalOptions="EndAndExpand">
+
+
+                        <CollectionView.ItemsLayout>
+                            <GridItemsLayout HorizontalItemSpacing="5" Orientation="Horizontal" />
+                        </CollectionView.ItemsLayout>
+
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <ContentView>
+                                    <StackLayout>
+                                        <Grid>
+                                            <Grid.Resources>
+                                                <ResourceDictionary>
+                                                    <Style TargetType="BoxView">
+                                                        <Setter Property="WidthRequest" Value="150" />
+                                                        <Setter Property="HeightRequest" Value="40" />
+                                                        <Setter Property="HorizontalOptions" Value="Center" />
+                                                        <Setter Property="BackgroundColor" Value="#706c61" />
+                                                        <Setter Property="VerticalOptions" Value="Center" />
+                                                        <Setter Property="CornerRadius" Value="8" />
+
+                                                    </Style>
+                                                </ResourceDictionary>
+                                            </Grid.Resources>
+
+                                            <BoxView Grid.Column="0" />
+
+                                            <Label
+                                                Grid.Column="0"
+                                                FontAttributes="Bold"
+                                                FontSize="18"
+                                                HorizontalOptions="Center"
+                                                Text="{Binding Name}"
+                                                TextColor="Black"
+                                                VerticalOptions="Center" />
+
+                                        </Grid>
+                                    </StackLayout>
+
+                                </ContentView>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+
+                    <!--  Book List  -->
+                    <Label
+                        Grid.Row="2"
+                        Grid.Column="0"
+                        Grid.ColumnSpan="2"
+                        Style="{StaticResource TitleLabel}"
+                        Text="Books" />
+
+                    <CollectionView
+                        Grid.Row="3"
+                        ItemSizingStrategy="MeasureAllItems"
+                        ItemsSource="{Binding Books, Mode=TwoWay}"
+                        SelectionChanged="CollectionView_SelectionChanged"
+                        SelectionMode="Single"
+                        VerticalScrollBarVisibility="Never">
+                        <CollectionView.ItemsLayout>
+                            <GridItemsLayout Orientation="Vertical" Span="2" />
+                        </CollectionView.ItemsLayout>
+
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+
+                                <ContentView Padding="15">
+                                    <StackLayout>
+                                        <Frame
+                                            Padding="0"
+                                            CornerRadius="8"
+                                            HasShadow="False">
+                                            <StackLayout BackgroundColor="#e8e3df">
+                                                <Image
+                                                    Aspect="AspectFill"
+                                                    HeightRequest="250"
+                                                    Source="{Binding Image}" />
+                                                <Grid Margin="20,2,20,5" VerticalOptions="End">
+                                                    <Grid.RowDefinitions>
+                                                        <RowDefinition Height="Auto" />
+                                                        <RowDefinition Height="Auto" />
+                                                    </Grid.RowDefinitions>
+                                                    <Label
+                                                        Grid.Row="0"
+                                                        Margin="0,0,0,10"
+                                                        FontAttributes="Bold"
+                                                        FontSize="15"
+                                                        LineBreakMode="TailTruncation"
+                                                        Style="{StaticResource ExBoldLabel}"
+                                                        Text="{Binding BookTitle}"
+                                                        WidthRequest="100" />
+
+                                                    <Label
+                                                        Grid.Row="1"
+                                                        FontAttributes="Bold"
+                                                        FontSize="13"
+                                                        HorizontalOptions="Start"
+                                                        Style="{StaticResource LightLabel}"
+                                                        Text="Available"
+                                                        VerticalOptions="CenterAndExpand" />
+
+                                                    <Image
+                                                        Grid.Row="1"
+                                                        HorizontalOptions="End"
+                                                        Source="{Binding FavouriteBtn}"
+                                                        VerticalOptions="CenterAndExpand"
+                                                        WidthRequest="15">
+                                                        <Image.GestureRecognizers>
+                                                            <TapGestureRecognizer CommandParameter="{Binding Id}" Tapped="TapGestureRecognizer_Tapped" />
+                                                        </Image.GestureRecognizers>
+                                                    </Image>
+                                                </Grid>
+                                            </StackLayout>
+                                        </Frame>
+                                    </StackLayout>
+
+                                </ContentView>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+
+
+                    </CollectionView>
+
+
+                    <Label
+                        Grid.Row="4"
+                        Grid.Column="0"
+                        Grid.ColumnSpan="2"
+                        Style="{StaticResource TitleLabel}"
+                        Text="Authors" />
+
+                    <!--<StackLayout  Grid.Row="3" Grid.Column="1" Padding="0,0,0,0" Orientation="Horizontal" VerticalOptions="Start" HorizontalOptions="End">
+                        <Label TextColor="#eba507" Text="SEE ALL"/>
+                    </StackLayout>-->
+
+                    <!--  Authors  -->
+                    <CollectionView
+                        Grid.Row="5"
+                        Margin="20,10,20,0"
+                        HeightRequest="180"
+                        HorizontalScrollBarVisibility="Always"
+                        ItemsSource="{Binding Authors}"
+                        SelectedItem="{Binding SelectedAuthor}"
+                        SelectionChangedCommand="{Binding SelectionCommandAuthor}"
+                        SelectionMode="Single">
+
+
+                        <CollectionView.ItemsLayout>
+                            <GridItemsLayout HorizontalItemSpacing="5" Orientation="Horizontal" />
+                        </CollectionView.ItemsLayout>
+
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <ContentView>
+                                    <StackLayout>
+                                        <Grid>
+                                            <Grid.RowDefinitions>
+                                                <RowDefinition Height="Auto" />
+                                                <RowDefinition Height="Auto" />
+                                            </Grid.RowDefinitions>
+                                            <Grid.Resources>
+                                                <ResourceDictionary>
+                                                    <Style TargetType="BoxView">
+                                                        <Setter Property="HeightRequest" Value="100" />
+                                                        <Setter Property="WidthRequest" Value="100" />
+                                                        <Setter Property="BackgroundColor" Value="AliceBlue" />
+                                                        <Setter Property="CornerRadius" Value="8" />
+                                                    </Style>
+                                                </ResourceDictionary>
+                                            </Grid.Resources>
+
+                                            <BoxView Grid.Column="0" />
+                                            <Frame
+                                                Margin="10"
+                                                Padding="0"
+                                                CornerRadius="50"
+                                                HasShadow="False"
+                                                HeightRequest="10">
+                                                <Image
+                                                    Grid.Column="0"
+                                                    Aspect="AspectFill"
+                                                    Source="{Binding Picture}" />
+                                            </Frame>
+
+                                            <Label
+                                                Grid.Row="1"
+                                                FontAttributes="Bold"
+                                                FontSize="12"
+                                                HorizontalOptions="Center"
+                                                HorizontalTextAlignment="Center"
+                                                Text="{Binding Name}"
+                                                TextColor="Black"
+                                                WidthRequest="100" />
+                                        </Grid>
+                                    </StackLayout>
+
+                                </ContentView>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+
+                </Grid>
+            </ScrollView>
+        </RefreshView>
+
+    </ContentPage.Content>
+</ContentPage>

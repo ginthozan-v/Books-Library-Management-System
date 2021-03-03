@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="LMS.Views.LoginPage"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="clr-namespace:LMS.ViewModels"
+    Visual="Material"
+    mc:Ignorable="d">
+
+    <ContentPage.BindingContext>
+        <vm:LoginViewModel />
+    </ContentPage.BindingContext>
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Entry">
+                <Setter Property="FontAttributes" Value="Bold" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <Grid BackgroundColor="#fff">
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition />
+                <RowDefinition />
+            </Grid.RowDefinitions>
+            <Label
+                Grid.Row="0"
+                Margin="18,100,0,0"
+                FontAttributes="Bold"
+                FontSize="80"
+                Text="Book"
+                TextColor="#3f3f44" />
+            <Label
+                Grid.Row="1"
+                Margin="18,-80,0,0"
+                FontAttributes="Bold"
+                FontSize="80"
+                Text="Library"
+                TextColor="#3f3f44" />
+
+            <StackLayout
+                Grid.Row="2"
+                Padding="20,0,20,0"
+                VerticalOptions="Center">
+                <Entry
+                    x:Name="UsernameEntry"
+                    Placeholder="Username"
+                    Text="{Binding UserName, Mode=TwoWay}" />
+                <Entry
+                    x:Name="PasswordEntry"
+                    IsPassword="True"
+                    Placeholder="Password"
+                    Text="{Binding Password, Mode=TwoWay}" />
+                <Button
+                    x:Name="Btn_Login"
+                    BackgroundColor="#3f3f44"
+                    Command="{Binding LoginCommand}"
+                    Text="Login"
+                    VerticalOptions="Center" />
+
+            </StackLayout>
+
+        </Grid>
+
+    </ContentPage.Content>
+
+</ContentPage>

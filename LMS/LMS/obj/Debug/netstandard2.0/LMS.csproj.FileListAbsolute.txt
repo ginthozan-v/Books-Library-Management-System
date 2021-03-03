@@ -1,0 +1,133 @@
+E:\LibraryManagementSystem\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.deps.json
+E:\LibraryManagementSystem\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS\bin\Debug\netstandard2.0\ref\LMS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.xml
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\BookReserve.xaml.g.cs
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBookDetail.xaml.g.cs
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfoInputs.cache
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfo.cs
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CopyComplete
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\ref\LMS.dll
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.pdb
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayCategorizedBooks.xaml.g.cs
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csprojAssemblyReference.cache
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CoreCompileInputs.cache
+E:\LibraryManagementSystem\LMS\LMS\LMS\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.deps.json
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\ref\LMS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csprojAssemblyReference.cache
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\BookReserve.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBookDetail.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayCategorizedBooks.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfoInputs.cache
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfo.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CoreCompileInputs.cache
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CopyComplete
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\ref\LMS.dll
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.pdb
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBooksByAuthor.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\FavouritePage.xaml.g.cs
+D:\Ginthu\Desktop\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.deps.json
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\ref\LMS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.xml
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\BookReservation.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBookDetail.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBooksByAuthor.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayCategorizedBooks.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayLendBook.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayReservedBook.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\FavouritePage.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfoInputs.cache
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfo.cs
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CoreCompileInputs.cache
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\XamlC.stamp
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CopyComplete
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\ref\LMS.dll
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.pdb
+E:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csprojAssemblyReference.cache
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\BookReservation.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBookDetail.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBooksByAuthor.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayCategorizedBooks.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayLendBook.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayReservedBook.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\FavouritePage.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfoInputs.cache
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfo.cs
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\ref\LMS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.deps.json
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\ref\LMS.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\LMS.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.dll
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.pdb
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.xml
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CopyComplete
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csprojAssemblyReference.cache
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CoreCompileInputs.cache
+F:\InterSoft Projects\LMS\LMS\LMS\LMS\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Library-Management-System\LMS\LMS\bin\Debug\netstandard2.0\LMS.deps.json
+D:\Library-Management-System\LMS\LMS\bin\Debug\netstandard2.0\LMS.dll
+D:\Library-Management-System\LMS\LMS\bin\Debug\netstandard2.0\ref\LMS.dll
+D:\Library-Management-System\LMS\LMS\bin\Debug\netstandard2.0\LMS.pdb
+D:\Library-Management-System\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Library-Management-System\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Library-Management-System\LMS\LMS\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\LMS.csprojAssemblyReference.cache
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\BookReservation.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBookDetail.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayBooksByAuthor.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayCategorizedBooks.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayLendBook.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\DisplayReservedBook.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\FavouritePage.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\Home.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\Views\ProfilePage.xaml.g.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfoInputs.cache
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\LMS.AssemblyInfo.cs
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CoreCompileInputs.cache
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\LMS.csproj.CopyComplete
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\LMS.dll
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\ref\LMS.dll
+D:\Library-Management-System\LMS\LMS\obj\Debug\netstandard2.0\LMS.pdb

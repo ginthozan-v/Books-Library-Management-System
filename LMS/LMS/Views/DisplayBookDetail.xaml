@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="LMS.Views.DisplayBookDetail"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:vm="clr-namespace:LMS.ViewModels"
+    Visual="Material"
+    mc:Ignorable="d">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="ExBoldLabel" TargetType="Label">
+                <!--<Setter Property="FontFamily" Value="GilroyEB" />-->
+                <Setter Property="TextColor" Value="#323232" />
+            </Style>
+            <Style x:Key="LightLabel" TargetType="Label">
+                <!--<Setter Property="FontFamily" Value="GilroyL" />-->
+                <Setter Property="TextColor" Value="#706c61" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="#fff">
+                <StackLayout
+                    Padding="0,0,0,20"
+                    BackgroundColor="#e8e3df"
+                    MinimumHeightRequest="500">
+
+                    <Image
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        Margin="20,20,0,0"
+                        HorizontalOptions="Start"
+                        Source="left.png"
+                        WidthRequest="20">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Label
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        Margin="0,-25,0,0"
+                        FontSize="20"
+                        HorizontalOptions="CenterAndExpand"
+                        Text="Book Detail"
+                        VerticalOptions="Center" />
+                    <Frame
+                        Margin="110,20,100,20"
+                        Padding="0"
+                        CornerRadius="10"
+                        HasShadow="True"
+                        HeightRequest="300">
+                        <Image
+                            Aspect="AspectFill"
+                            Source="{Binding SelectedBook.Image}"
+                            WidthRequest="100" />
+                    </Frame>
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="35"
+                        HorizontalTextAlignment="Center"
+                        Style="{StaticResource ExBoldLabel}"
+                        Text="{Binding SelectedBook.Title}"
+                        TextColor="#222831" />
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="25"
+                        HorizontalTextAlignment="Center"
+                        Text="{Binding SelectedBook.Subtitle}"
+                        TextColor="#222831" />
+                    <StackLayout
+                        BindableLayout.ItemsSource="{Binding Authors}"
+                        HorizontalOptions="CenterAndExpand"
+                        Orientation="Horizontal">
+                        <BindableLayout.ItemTemplate>
+                            <DataTemplate>
+                                <Label FontAttributes="Bold" Text="{Binding Name}" />
+                            </DataTemplate>
+                        </BindableLayout.ItemTemplate>
+                    </StackLayout>
+
+                    <StackLayout
+                        BindableLayout.ItemsSource="{Binding Categories}"
+                        HorizontalOptions="CenterAndExpand"
+                        Orientation="Horizontal">
+                        <BindableLayout.ItemTemplate>
+                            <DataTemplate>
+                                <Label FontAttributes="Bold" Text="{Binding Name}" />
+                            </DataTemplate>
+                        </BindableLayout.ItemTemplate>
+                    </StackLayout>
+                </StackLayout>
+
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+                    <StackLayout
+                        Grid.Row="0"
+                        Padding="20,20,20,0"
+                        VerticalOptions="Center">
+                        <Label
+                            FontAttributes="Bold"
+                            FontSize="24"
+                            Text="Description"
+                            TextColor="#323232" />
+                    </StackLayout>
+                    <StackLayout
+                        Grid.Row="1"
+                        Padding="20,0,20,0"
+                        VerticalOptions="Center">
+                        <Label
+                            FontSize="16"
+                            HorizontalTextAlignment="Start"
+                            LineHeight="1.1"
+                            Style="{StaticResource LightLabel}"
+                            Text="{Binding SelectedBook.Description}" />
+                    </StackLayout>
+                    <StackLayout
+                        Grid.Row="2"
+                        Padding="20,20,20,-20"
+                        VerticalOptions="Center">
+                        <Button
+                            x:Name="Btn_Lend"
+                            BackgroundColor="#323232"
+                            Command="{Binding SubmitLendCommand}"
+                            HeightRequest="50"
+                            Text="Lend" />
+                    </StackLayout>
+                    <StackLayout
+                        Grid.Row="3"
+                        Padding="20,10,20,20"
+                        VerticalOptions="Center">
+                        <Button
+                            x:Name="Btn_Reserve"
+                            BackgroundColor="#323232"
+                            Command="{Binding SubmitReserveCommand}"
+                            HeightRequest="50"
+                            Text="Reserve" />
+                    </StackLayout>
+                </Grid>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    x:Class="LMS.Views.DisplayReservedBook"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="ExBoldLabel" TargetType="Label">
+                <!--<Setter Property="FontFamily" Value="GilroyEB" />-->
+                <Setter Property="TextColor" Value="Black" />
+            </Style>
+            <Style x:Key="LightLabel" TargetType="Label">
+                <!--<Setter Property="FontFamily" Value="GilroyL" />-->
+                <Setter Property="TextColor" Value="DarkGray" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="#f2f2f2">
+                <StackLayout.Resources>
+                    <ResourceDictionary>
+                        <Style TargetType="BoxView">
+                            <Setter Property="WidthRequest" Value="40" />
+                            <Setter Property="HeightRequest" Value="40" />
+                            <Setter Property="BackgroundColor" Value="White" />
+                            <Setter Property="CornerRadius" Value="20" />
+                        </Style>
+                    </ResourceDictionary>
+                </StackLayout.Resources>
+
+                <StackLayout
+                    Padding="0,0,0,20"
+                    BackgroundColor="#fff3e2"
+                    MinimumHeightRequest="500">
+
+                    <Image
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        Margin="20,20,0,0"
+                        HorizontalOptions="Start"
+                        Source="left.png"
+                        WidthRequest="20">
+                        <Image.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                        </Image.GestureRecognizers>
+                    </Image>
+                    <Label
+                        Grid.Row="0"
+                        Grid.Column="1"
+                        Margin="0,-25,0,0"
+                        FontSize="20"
+                        HorizontalOptions="CenterAndExpand"
+                        Text="Book Detail"
+                        VerticalOptions="Center" />
+                    <Frame
+                        Margin="110,20,100,20"
+                        Padding="0"
+                        CornerRadius="10"
+                        HasShadow="True"
+                        HeightRequest="300">
+                        <Image
+                            Aspect="AspectFill"
+                            Source="{Binding SelectedBook.Image}"
+                            WidthRequest="100" />
+                    </Frame>
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="35"
+                        HorizontalTextAlignment="Center"
+                        Style="{StaticResource ExBoldLabel}"
+                        Text="{Binding SelectedBook.Title}"
+                        TextColor="#222831" />
+                    <Label
+                        FontAttributes="Bold"
+                        FontSize="25"
+                        HorizontalTextAlignment="Center"
+                        Text="{Binding SelectedBook.Subtitle}"
+                        TextColor="#222831" />
+
+                    <StackLayout
+                        Margin="0,10,0,0"
+                        HorizontalOptions="CenterAndExpand"
+                        Orientation="Vertical">
+                        <Label
+                            FontSize="Medium"
+                            HorizontalTextAlignment="Center"
+                            Text="Collect the book on:" />
+                        <Label
+                            FontAttributes="Bold"
+                            FontSize="Medium"
+                            HorizontalTextAlignment="Center"
+                            Text="{Binding bookLend.AvailableDate}" />
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
